@@ -2,7 +2,7 @@
 
 
 # Causal-Multimodal-Deconfounding-for-Medical-Report-Generation
-We propose CMD-MRG, a unified multimodal de-confounding framework. It jointly employs VCAI and LCBI to suppress the spurious associations introduced by imaging appearance confounding and linguistic
+We propose CMD-MRG, a unified multimodal de-confounding framework. It jointly employs Visual Causal Appearance-Invariance (VCAI) and Linguistic Causal Backdoor Intervention (LCBI) to suppress the spurious associations introduced by imaging appearance confounding and linguistic
 prior confounding, thereby enabling MRG with improved visual faithfulness and less language drift.
 
 
